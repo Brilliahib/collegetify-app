@@ -104,7 +104,7 @@ export default function Home() {
             );
           })}
         </div>
-        <div className="w-full">
+        <div className="w-full mt-4">
           <div className="relative bg-white">
             <div className="mb-4 fixed bottom-0 d-flex w-full justify-center">
               <div className="flex gap-4 w-full max-w-max lg:max-w-screen-lg h-full items-center">
