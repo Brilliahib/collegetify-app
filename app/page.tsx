@@ -81,7 +81,7 @@ export default function Home() {
         </div>
         <div
           className="overflow-y-auto"
-          style={{ maxHeight: "calc(100vh - 200px)" }}
+          style={{ maxHeight: "calc(95vh - 200px)" }}
         >
           {messages.map((message) => {
             const date = message.timestamp
